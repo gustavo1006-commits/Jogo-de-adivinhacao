@@ -7,7 +7,7 @@ tentativas =  0
 acertou = False 
 
 print("--- Jogo de adivinhação ---")
-print("Tente advinhar o número secreto entre 1 e 100!")
+print("Tente adivinhar o número secreto entre 1 e 100!")
 
 while not acertou:
     try:

@@ -1,0 +1,1 @@
+Olá, esse projeto é sobre um jogo simples de advinhação em python.
