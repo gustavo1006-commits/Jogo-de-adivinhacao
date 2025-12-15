@@ -1,1 +1,1 @@
-Olá, esse projeto é sobre um jogo simples de adivinhação em python, apenas para práticar.
+Jogo de adivinhação, tente adivinhar o número entre 1 e 100, desenvolvi esse jogo como forma de práticar as estruturas condionais, e as estruturas de execeções em python.
